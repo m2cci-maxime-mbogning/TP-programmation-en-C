@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607029996 source:e:\mooc\apprendre la programmation en c cours complet\afficher le code ascii\main.c
+	<stdio.h>
+	<stdlib.h>
+
